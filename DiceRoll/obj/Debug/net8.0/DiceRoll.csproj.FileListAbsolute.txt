@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.AssemblyInfo.cs
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/DiceRoll/bin/Debug/net8.0/DiceRoll.deps.json
+/workspaces/codespaces-blank/DiceRoll/bin/Debug/net8.0/DiceRoll.dll
+/workspaces/codespaces-blank/DiceRoll/bin/Debug/net8.0/DiceRoll.pdb
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.dll
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/refint/DiceRoll.dll
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.pdb
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/ref/DiceRoll.dll
