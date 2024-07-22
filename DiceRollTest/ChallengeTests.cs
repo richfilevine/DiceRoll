@@ -26,7 +26,7 @@ public class ChallengeTests
     }
 
     [TestMethod]
-    public void GetSumIfThreeMatch_ShouldWork(int[] arrayList) {
+    public void GetSumIfThreeMatch_ShouldWork() {
         var valuesList = new List<GetSumData> {
             new GetSumData { Values = new List<int> { 1, 1, 1, 1, 1 }, Sum = 5},
             new GetSumData { Values = new List<int> { 6, 5, 4, 3, 2 }, Sum = 0}
