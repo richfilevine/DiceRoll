@@ -1,0 +1,22 @@
+{
+    // image being used
+     "image": "mcr.microsoft.com/devcontainers/universal:2",
+    // set minimum cpu
+     "hostRequirements": {
+         "cpus": 2
+     },
+     // open app.tsx once container is built
+     "customizations": {
+         "codespaces": {
+         },
+         // install some vscode extensions
+         "vscode": {
+             "extensions": [
+                 "ms-dotnettools.csdevkit",
+                 "ms-dotnettools.csharp",
+                 "ms-vsliveshare.vsliveshare"
+             ]
+         }
+     }
+  }
+  
