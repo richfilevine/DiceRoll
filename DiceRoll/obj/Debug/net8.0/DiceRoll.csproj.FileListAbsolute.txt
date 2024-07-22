@@ -10,3 +10,15 @@
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.pdb
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/ref/DiceRoll.dll
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.sourcelink.json
+/workspaces/DiceRoll/DiceRoll/bin/Debug/net8.0/DiceRoll.deps.json
+/workspaces/DiceRoll/DiceRoll/bin/Debug/net8.0/DiceRoll.dll
+/workspaces/DiceRoll/DiceRoll/bin/Debug/net8.0/DiceRoll.pdb
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.AssemblyInfoInputs.cache
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.AssemblyInfo.cs
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.csproj.CoreCompileInputs.cache
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.sourcelink.json
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.dll
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/refint/DiceRoll.dll
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/DiceRoll.pdb
+/workspaces/DiceRoll/DiceRoll/obj/Debug/net8.0/ref/DiceRoll.dll

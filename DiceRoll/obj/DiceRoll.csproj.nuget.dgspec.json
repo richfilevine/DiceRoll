@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj": {}
+    "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj": {
+    "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj",
+        "projectUniqueName": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj",
         "projectName": "DiceRoll",
-        "projectPath": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj",
+        "projectPath": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/DiceRoll/obj/",
+        "outputPath": "/workspaces/DiceRoll/DiceRoll/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

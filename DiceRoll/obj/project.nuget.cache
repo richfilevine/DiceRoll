@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0X3qaOhDAK8=",
+  "dgSpecHash": "2GXHmRCpQds=",
   "success": true,
-  "projectFilePath": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj",
+  "projectFilePath": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

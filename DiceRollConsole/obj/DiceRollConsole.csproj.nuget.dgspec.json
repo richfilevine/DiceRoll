@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces-blank/DiceRollConsole/DiceRollConsole.csproj": {}
+    "/workspaces/DiceRoll/DiceRollConsole/DiceRollConsole.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj": {
+    "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj",
+        "projectUniqueName": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj",
         "projectName": "DiceRoll",
-        "projectPath": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj",
+        "projectPath": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/DiceRoll/obj/",
+        "outputPath": "/workspaces/DiceRoll/DiceRoll/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/workspaces/codespaces-blank/DiceRollConsole/DiceRollConsole.csproj": {
+    "/workspaces/DiceRoll/DiceRollConsole/DiceRollConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/DiceRollConsole/DiceRollConsole.csproj",
+        "projectUniqueName": "/workspaces/DiceRoll/DiceRollConsole/DiceRollConsole.csproj",
         "projectName": "DiceRollConsole",
-        "projectPath": "/workspaces/codespaces-blank/DiceRollConsole/DiceRollConsole.csproj",
+        "projectPath": "/workspaces/DiceRoll/DiceRollConsole/DiceRollConsole.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/DiceRollConsole/obj/",
+        "outputPath": "/workspaces/DiceRoll/DiceRollConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj": {
-                "projectPath": "/workspaces/codespaces-blank/DiceRoll/DiceRoll.csproj"
+              "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj": {
+                "projectPath": "/workspaces/DiceRoll/DiceRoll/DiceRoll.csproj"
               }
             }
           }
