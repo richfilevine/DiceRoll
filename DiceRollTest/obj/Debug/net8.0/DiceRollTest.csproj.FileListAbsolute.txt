@@ -111,3 +111,4 @@
 /workspaces/codespaces-blank/DiceRollTest/obj/Debug/net8.0/DiceRollTest.pdb
 /workspaces/codespaces-blank/DiceRollTest/obj/Debug/net8.0/DiceRollTest.genruntimeconfig.cache
 /workspaces/codespaces-blank/DiceRollTest/obj/Debug/net8.0/ref/DiceRollTest.dll
+/workspaces/codespaces-blank/DiceRollTest/obj/Debug/net8.0/DiceRollTest.sourcelink.json

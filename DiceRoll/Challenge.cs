@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-namespace DiceRoll;
+﻿namespace DiceRoll;
 
 public class Challenge
 {

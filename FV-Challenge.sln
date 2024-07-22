@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoll", "DiceRoll\DiceRo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollTest", "DiceRollTest\DiceRollTest.csproj", "{A544C282-87C7-4C67-BF34-472F18CCF404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollConsole", "DiceRollConsole\DiceRollConsole.csproj", "{11DDA20B-C895-4967-920B-2AEC8D642EF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A544C282-87C7-4C67-BF34-472F18CCF404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A544C282-87C7-4C67-BF34-472F18CCF404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A544C282-87C7-4C67-BF34-472F18CCF404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DDA20B-C895-4967-920B-2AEC8D642EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DDA20B-C895-4967-920B-2AEC8D642EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DDA20B-C895-4967-920B-2AEC8D642EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DDA20B-C895-4967-920B-2AEC8D642EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -9,3 +9,4 @@
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/refint/DiceRoll.dll
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.pdb
 /workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/ref/DiceRoll.dll
+/workspaces/codespaces-blank/DiceRoll/obj/Debug/net8.0/DiceRoll.sourcelink.json

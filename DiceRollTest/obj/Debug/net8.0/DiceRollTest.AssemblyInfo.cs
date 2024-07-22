@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceRollTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1452c779dde0217318379866258b6df4513fe5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ebe0c94919166bc1494d86c19f133cce67213e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceRollTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceRollTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
