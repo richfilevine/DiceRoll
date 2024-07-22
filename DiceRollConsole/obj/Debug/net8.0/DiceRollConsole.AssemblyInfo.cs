@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceRollConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffec76f715e8237d42ea43a2c928a8fe5b2e0698")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dac002b61c9b7c361dec0536b22f98d4b26d00a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceRollConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceRollConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
